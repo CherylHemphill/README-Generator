@@ -24,7 +24,9 @@ Open your terminal within the README Generator folder.
 Run the command <b>node index.js</b> and follow the prompts to input your information. 
 
 ## Usage
-video to be added later
+
+
+https://github.com/CherylHemphill/README-Generator/assets/126039394/390d98f1-a05e-4841-b347-115bf4bde740
 
 
 ## License
