@@ -20,7 +20,8 @@ You will need Node.js downloaded onto your computer to run this program.
 In your terminal type the command <b>node -v </b>to see the current version if one is available. 
 If you need to install or update go to (https://nodejs.org/en/download/releases) to install.
 <br>
-Open your terminal within the README Generator folder. 
+Clone the code into your code editor of choice.<br>
+Open your terminal within the README Generator folder. <br>
 Run the command <b>node index.js</b> and follow the prompts to input your information. 
 
 ## Usage
@@ -38,7 +39,7 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 [Contributor Covenant](https://www.contributor-covenant.org/) 
 
 ## Tests
-debugger running test under package.json
+N/A
 
 ## Questions
 For any questions, please contact me via:
