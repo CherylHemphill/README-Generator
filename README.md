@@ -22,6 +22,7 @@ If you need to install or update go to (https://nodejs.org/en/download/releases)
 <br>
 Clone the code into your code editor of choice.<br>
 Open your terminal within the README Generator folder. <br>
+To install required dependencies run the command <b>npm i -s</b>. <br>
 Run the command <b>node index.js</b> and follow the prompts to input your information. 
 
 ## Usage
